@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "图片加水印",
+  "navigationBarBackgroundColor": "#f5f6f8",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "comp": "../../../comp"
+  }
+}

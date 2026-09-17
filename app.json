@@ -1,0 +1,62 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/tool/img-compress/index",
+    "pages/tool/img-convert/index",
+    "pages/tool/img-crop/index",
+    "pages/tool/pdf-merge/index",
+    "pages/tool/pdf-split/index",
+    "pages/tool/pdf-image/index",
+    "pages/tool/office-word/index",
+    "pages/tool/office-excel/index",
+    "pages/tool/img-pdf/index",
+    "pages/tool/img-long/index",
+    "pages/tool/img-watermark/index",
+    "pages/tool/pdf-compress/index",
+    "pages/tool/pdf-word/index",
+    "pages/tool/pdf-watermark/index",
+    "pages/tool/pdf-encrypt/index",
+    "pages/tool/pdf-decrypt/index",
+    "pages/tool/pdf-pages/index",
+    "pages/tool/qr-make/index",
+    "pages/tool/qr-scan/index",
+    "pages/privacy/index",
+    "pages/agreement/index",
+    "pages/toolbox/index",
+    "pages/profile/index",
+    "pages/favorite/index",
+    "pages/history/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f5f5f5",
+    "navigationBarTitleText": "口袋文件工具箱",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#0b8a6b",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "./assets/tabbar/home.png",
+        "selectedIconPath": "./assets/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/toolbox/index",
+        "text": "工具箱",
+        "iconPath": "./assets/tabbar/grid.png",
+        "selectedIconPath": "./assets/tabbar/grid-active.png"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "text": "我的",
+        "iconPath": "./assets/tabbar/user.png",
+        "selectedIconPath": "./assets/tabbar/user-active.png"
+      }
+    ]
+  }
+}

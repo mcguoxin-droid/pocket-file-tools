@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "格式转换",
+  "navigationBarBackgroundColor": "#f5f6f8",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "comp": "../../../comp"
+  }
+}

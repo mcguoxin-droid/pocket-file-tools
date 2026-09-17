@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "PDF 转图片",
+  "navigationBarBackgroundColor": "#f5f6f8",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "comp": "../../../comp"
+  }
+}
